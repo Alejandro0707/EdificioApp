@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">EdificioApp</string>
+    <string name="Resgistro">Registar Apartamentos</string>
+    <string name="balcon">Adquirió Balcón</string>
+    <string name="sombra">Ubicación Sombra</string>
+    <string name="guardar">Agregar</string>
+    <string name="si">SI</string>
+    <string name="no">NO</string>
+    <string name="buscar">Buscar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="nomenclatura">Nº Nomeclatura</string>
+    <string name="ingrese">Ingrese</string>
+    <string name="ubicacion_piso">Ubicacion Piso</string>
+    <string name="metros_cuadrados">Nº Mts Cuadrados</string>
+    <string name="precios">$precio</string>
+    <string name="encuentra_sombra">Se Halla Ubicado en la Sombra</string>
+    <string name="no_encuentra_sombra">No Se Halla Ubicado en la Sombra</string>
+    <string name="tiene_balcon">Posee Balcon</string>
+    <string name="no_tiene_balcon">No Posee Balcon</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="limpia">Limpiar</string>
+    <string name="guardado_exitoso">Informacion Apartamento Almacenada</string>
+    <string name="error_piso">Ya Existen Almacenados tres Apartamentos en este piso</string>
+    <string name="error_nomenclatura">Favor Digite la Nomenclatura</string>
+    <string name="error_metros">Favor Digite Area del Apto</string>
+    <string name="error_precio">Favor Digite el precio del Apto</string>
+    <string name="confirmacion">Confirmacion</string>
+    <string name="mensaje_eliminacion">¿Esta seguro que desea eliminar el Apartamento?</string>
+    <string name="eliminado_exitoso">Apartamento Eliminado Exitosamente</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="error_nomenclatura_igual">Ya Existe Favor Digite Otra nomenclatura</string>
+
+
+
+
+
+    <string name="con_balcon">Respecto A Balcon</string>
+    <string name="con_sombra">Respecto A Sombra</string>
+    <string name="con_balcon_sombra">Respecto Ambas Balcon y Sombra</string>
+    <string name="apartamento_caro">El Apartamento Mas Caro Se Encuentra En El Piso</string>
+    <string name="promedio">Promedio Tamaño Aptos</string>
+
+    <string name="reportes">Reportes Estadisticos</string>
+    <string name="lista_aptos">Listado de Apartamentos</string>
+    <string name="registroaptos">Añadir Apartamentos</string>
+    <string-array name="opciontes_principal">
+        <item>@string/registroaptos</item>
+        <item>@string/lista_aptos</item>
+        <item>@string/reportes</item>
+    </string-array>
+
+
+
+
+    <string name="uno">1</string>
+    <string name="dos">2</string>
+    <string name="tres">3</string>
+    <string name="cuatro">4</string>
+    <string name="cinco">5</string>
+    <string-array name="opciones_piso">
+        <item>@string/uno</item>
+        <item>@string/dos</item>
+        <item>@string/tres</item>
+        <item>@string/cuatro</item>
+        <item>@string/cinco</item>
+    </string-array>
+
+    <string name="reporte_1">Cantidad de Aptos Ubicados En Sombra Y Balcon</string>
+    <string name="reporte_2">Ubicacion Del Piso Del Apto Mas Costoso</string>
+    <string name="reporte_3">Nomenclatura Y M2 Del Apto Con Respecto Mayor Tamaño De La Edificacion</string>
+    <string name="reporte_4">Promedio De Tamaño De Aptos Por Piso</string>
+    <string-array name="opciones_reportes">
+        <item>@string/reporte_1</item>
+        <item>@string/reporte_2</item>
+        <item>@string/reporte_3</item>
+        <item>@string/reporte_4</item>
+    </string-array>
+
+    <string-array name="opciones_lista_personalizada">
+        <item>@string/nomenclatura</item>
+        <item>@string/ubicacion_piso</item>
+        <item>@string/metros_cuadrados</item>
+        <item>@string/precios</item>
+    </string-array>
+</resources>
